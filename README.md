@@ -5,7 +5,7 @@
 - :books: I studied environmental engineering where I learned my first language: **C**
 - :nerd_face: I’m currently learning **Java Full Stack**
 - :computer: I’m looking to collaborate on any project you need help from a trainee on Java. 
-- 📫 Reach me at: http://www.linkedin.com/in/delfinatroncoso // delfitroncoso@gmail.com
+- 📫 Reach me at: http://www.linkedin.com/in/delfinatroncoso
 
 <!---
 delfi23/delfi23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
