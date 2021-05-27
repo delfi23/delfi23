@@ -1,4 +1,4 @@
-# Hey there! I’m Delfina 
+# Hello world! I’m Delfina 
 
 :point_right: A web developer enthusiast
 
